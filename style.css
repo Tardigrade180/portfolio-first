@@ -157,6 +157,8 @@ section {
     column-gap: 500px;
 }
 
+
+
 .form{
     height: 500px;
 }
@@ -189,6 +191,11 @@ section {
     
     
 }
+
+.header5{
+    margin-left: 130px;
+}
+
 
 html {
     scroll-behavior: smooth; /* Enables smooth scrolling */
